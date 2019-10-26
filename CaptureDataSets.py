@@ -1,5 +1,5 @@
 ####################################################
-# Pragrammed By Satish Kumar					   #
+# Pragrammed By Satish Kumar                       #
 # Download code from https://github.com/satish3922 #
 # Bug Reporting @ hhtps://linked.com/in/satish3922 #
 ####################################################
