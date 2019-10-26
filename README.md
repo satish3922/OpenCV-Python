@@ -33,12 +33,12 @@ Step II
 Download or Clone the Project from the link: 'git@github.com:satish3922/OpenCV-Python.git'
 Direct download through browser downloader.
 Use Command to download : git clone git@github.com:satish3922/OpenCV-Python.git
-![Alt text](/relative/path/to/img.jpg?raw=true "Clone Git Project")
+![Alt text](https://github.com/satish3922/OpenCV-Python/blob/master/ScreenShots/git.jpg?raw=true "Clone Git Project")
 
 Step III
 --------
 Go to OpenCV-Python Directory | Folder
-![Alt text](/relative/path/to/img.jpg?raw=true "Change to Git Directory")
+![Alt text](https://github.com/satish3922/OpenCV-Python/blob/master/ScreenShots/cd.jpg?raw=true "Change to Git Directory")
 
 Step IV
 -------
@@ -46,24 +46,27 @@ Step IV
 ~ Go to cmd | terminal | shell and then type
   'python CaptureDataSets.py'
   then type subject name and press enter
-![Alt text](/relative/path/to/img.jpg?raw=true "Capture DataSets")
+![Alt text](https://github.com/satish3922/OpenCV-Python/blob/master/ScreenShots/CaptureDataSets.jpg?raw=true "Capture DataSets")
 
 Step V
 ------
 ~ Now it's time to train our recognizer.
 ~ Go to cmd | terminal | shell and then type
   'python FaceTrainner.py'
-![Alt text](/relative/path/to/img.jpg?raw=true "Train the Recognizer")
+![Alt text](https://github.com/satish3922/OpenCV-Python/blob/master/ScreenShots/Facetrainer.jpg?raw=true "Train the Recognizer")
 
  Step VI
  -------
  ~ After Successfully training now, you can test you recognizer
  ~ Go to cmd | terminal | shell and then type
    'python FaceRecognizer.py'
-![Alt text](/relative/path/to/img.jpg?raw=true "Testing Recognizer") 
+![Alt text](https://github.com/satish3922/OpenCV-Python/blob/master/ScreenShots/Recognizer.jpg?raw=true "Testing Recognizer") 
  
  Enjoys Face Recognition Using OpenCV-Python !
  ---------------------------------------------
  
  # I have also attached screenshot of testing.
-![Alt text](/relative/path/to/img.jpg?raw=true "Testing Sample II")
+![Alt text](https://github.com/satish3922/OpenCV-Python/blob/master/ScreenShots/test1.png?raw=true "Testing Sample II")
+![Alt text](https://github.com/satish3922/OpenCV-Python/blob/master/ScreenShots/test2.png?raw=true "Testing Sample II")
+
+
