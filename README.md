@@ -7,7 +7,7 @@ Face Recognition Using OpenCV-Python
 ~ pip install opencv-python
 ~ pip install opencv-contrib-python
 ~ pip install pillow
-~ pip install pickle
+~ pip install pickle (already installed in Python3)
 
 2. This Project can work on any Platform (Operating System)
 
